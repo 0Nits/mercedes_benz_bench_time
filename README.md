@@ -1,7 +1,6 @@
 # mercedes_benz_bench_time
 
-# Create an ML algorithm that can accurately predict the time a car will spend on the test bench 
-# based on the vehicle configuration
+# Create an ML algorithm that can accurately predict the time a car will spend on the test bench based on the vehicle configuration
 
 # Agenda<br/>
 1. If for any column(s), the variance is equal to zero, then you need to remove those variable(s)<br/>
